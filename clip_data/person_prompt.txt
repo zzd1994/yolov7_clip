@@ -1,0 +1,15 @@
+a male. a female.
+a kid. not a kid.
+a person less than 20. a person less than 30. a person less than 40. a person less than 50.
+someone with long hair. someone with short hair.
+someone with black hair. someone without black hair.
+a person in dress. a person not in dress.
+a person riding a motorbike. a person not riding a motorbike. 
+a person with a hat. a person without a hat.
+a person in a red shirt. a person in a black shirt. a person in a yellow shirt. a person in a blue shirt. a person in a pink shirt. a person in a white shirt. 
+a man wearing a mask. a man not wearing a mask. 
+a man with glasses. a man without glasses.
+an person not sure if he wear seat belt. a person wearing seat belt in the car. a person not wearing seat belt in the car.
+a person not sure if he is smoking. a person smoking. a person not smoking.
+not sure if someone is on the phone. a person on the phone. a person not on the phone.
+a person not sure whether his face is covered. a person whose face is obscured. a person whose face is not obscured.

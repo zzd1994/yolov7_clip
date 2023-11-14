@@ -1,0 +1,14 @@
+car. truck. bus. tricycle. bicycle. crane. ambulance. taxi. convertible. electric locomotive. fire truck. truck. garbage truck. mini racing car. golf cart. limousine. minibus. minivan . moped. motorcycle. mountain bike. moving truck. passenger car. police car. racing car. RV. school bus. snowmobile. sports car. steam locomotive. streetcar. tank. trailer. tractor. tractor-trailer. trolleybus. wheelbarrow .tank truck.crane.pump truck.van.horse carriage.ox cart.uncertain.
+a black car. a white car. a silver car. a red car. an orange car. a yellow car. a green car. a cyan car. a blue car. a purple car. a car of uncertain color.
+#not sure if the car has license plate. a car with a license plate. a car without a license plate.
+#a car with a blue license plate. a car with a green license plate. a car with a yellow license plate. a car with a white license plate. a car with a kelly license plate. a car with a black license plate. a car with a license plate with a unknown color.
+a car that is not sure if there is a defaced license plate. a car with a defaced license plate. a car with a no defaced license plate.
+a car that is not sure if there is a tissue box. a car with a tissue box. a car without tissue box.
+a car that is not sure if there is a pendant. a car with a pendant. a car without pendant.
+a car that is not sure if there is a sunroof. a car with a sunroof. a car without sunroof.
+a car that is not sure if there is a spare tire. a car with a spare tire. a car without spare tire.
+#a car that is not sure if it contains the car inspection sign. a car containing a car inspection sign. a car not containing a car inspection sign.
+not a muck truck or a muck truck that is not sure if it is with rear cover. a muck truck with a rear cover. a muck truck without rear cover.
+the front of a car. the back of a car. the side of a car. a car with uncertain angle.
+a car without a roof rack. a car with a roof rack. a car that is not sure if there is an roof rack.
+a car not sure if there is someone in the passenger seat . A car with a person in the passenger seat . A car with an empty passenger seat.
