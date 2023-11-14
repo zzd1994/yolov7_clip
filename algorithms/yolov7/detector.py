@@ -51,7 +51,7 @@ class YOLOv7Detector(object):
         # self.auto_padding = self._model.pt or self._model.pkl
         self.auto_padding = True
         # self.half = self._model.fp16
-        self.half = False
+        self.half = True
         # self.stride = self._model.stride
         self.stride = 32
         # with open(weight_path, 'rb') as f:
