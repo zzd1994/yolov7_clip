@@ -56,7 +56,7 @@ class YOLOv7Detector(object):
         self.stride = 32
         # with open(weight_path, 'rb') as f:
         #     self._model.load_state_dict(pickle.load(f))
-        self._model.fuse().eval().half().to(self._device)
+        self._model.fuse().eval().half().to(self._device) if self.half else self._model.eval().to(self._device)
         # self._model.eval().to(self._device)
         # ----------------------------------------
         self._classes = classes
