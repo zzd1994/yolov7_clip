@@ -74,7 +74,8 @@ class YOLOv7Detector(object):
         # s2_time = time.time()
         # print(f'前处理{round((s2_time-s1_time)*1000, 2)}ms')
         # ----------------------------------------
-        batch_output = self._model(batch, augment=False)
+        with torch.no_grad():
+            batch_output = self._model(batch, augment=False)
         # print('batch_output', len(batch_output), batch_output[0].shape, len(batch_output[1]), batch_output[1][0].shape,
         #       batch_output[1][1].shape, batch_output[1][2].shape)
         # s3_time = time.time()
